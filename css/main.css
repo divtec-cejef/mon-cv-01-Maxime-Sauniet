@@ -1,3 +1,9 @@
 body {
-
+    background-color: black;
+}
+h1,h2  {
+    color: deeppink;
+}
+p,li  {
+    color: greenyellow;
 }
