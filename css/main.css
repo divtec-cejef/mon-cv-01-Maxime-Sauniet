@@ -1,12 +1,22 @@
 body {
     background-color: black;
+    font-size: 1.2rem;
 }
+
 h1,h2  {
     color: deeppink;
 }
+
 p,li {
     color: greenyellow;
+    max-width: 570px;
+    font-size: 1.3rem;
 }
+
 a{
     color: white;
+}
+
+img{
+    height: 120px;
 }
