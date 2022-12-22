@@ -11,12 +11,14 @@ p,li {
     color: greenyellow;
     max-width: 570px;
     font-size: 1.3rem;
-}
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.5}
 
 a{
     color: white;
 }
 
 img{
-    height: 120px;
+    height: 150px;
 }
