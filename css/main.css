@@ -4,6 +4,9 @@ body {
 h1,h2  {
     color: deeppink;
 }
-p,li  {
+p,li {
     color: greenyellow;
+}
+a{
+    color: white;
 }
