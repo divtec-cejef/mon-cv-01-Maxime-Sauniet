@@ -12,6 +12,8 @@ body {
 }
 
 h1{
+    font-family: Chivo Mono, sans-serif;
+    font-weight: 100;
     color: deeppink;
 }
 
