@@ -1,0 +1,49 @@
+body {
+    background-image:url("https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/375px-Image_created_with_a_mobile_phone.png");
+    background-repeat: no-repeat;
+    background-color: transparent;
+    background-size: cover;
+    font-size: 1.2rem;
+    font-family: Chivo Mono, sans-serif;
+    font-weight: normal;
+    margin-right: 1em;
+    margin-left: 1em;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+h1 {
+    font-family: Chivo Mono, sans-serif;
+    font-weight: 700;
+    color: deeppink;
+}
+
+h2 {
+    color: darkviolet;
+}
+
+h2.cv {
+    color: azure;
+}
+
+p, li {
+    color: white;
+    font-size: 1.3rem;
+    line-height: 1.5;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    color: white;
+}
+
+ul {
+    padding: 0;
+}
